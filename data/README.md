@@ -6,4 +6,4 @@ The data directory contains data used in the analysis. This is treated as read o
 
 The data is queried from Spoonacular via RapidAPI as shown:
 
-<img src="recipe-generator/figs/implemented_design.png" width="500">
+<img src="../figs/implemented_design.png" width="500">
