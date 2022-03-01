@@ -16,7 +16,12 @@ Term: Fall 2021
 
 + Data source: The data is queried from Spoonacular via [RapidAPI](https://rapidapi.com/spoonacular/api/recipe-food-nutrition/) as shown.
 
-<img src="figs/implemented_design.png" width="800">
+<img src="figs/implemented_design.png" width="750">
+
++ App UI: The app has an input page where users can key in what ingredients they have at home and a results page with a list of recipes that can be cooked with the available ingredients at home.
+
+<img src="figs/app_input.png" width="750">
+<img src="figs/app_output.png" width="750">
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
