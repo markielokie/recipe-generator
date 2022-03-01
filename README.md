@@ -2,7 +2,7 @@
 ## Fall 2021
 ## Recipe Generator App Project
 
-<img src="figs/logo.png" width="500">
+<img src="figs/logo.png" width="800">
 
 ### [Project Description](doc/)
 
