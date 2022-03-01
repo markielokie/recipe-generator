@@ -20,10 +20,8 @@ Term: Fall 2021
 
 + App UI: The app has an *input page* where users can key in what ingredients they have at home and a *results page* that returns a list of recipes that can be cooked with the available ingredients at home.
 
-*Input page*:
 <img src="figs/app_input.png" width="750">
 
-*Results page*:
 <img src="figs/app_output.png" width="750">
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
