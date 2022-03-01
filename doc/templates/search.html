@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %} Recipes searcher {% endblock %}
+{% block body %}
+
+<center>
+  <h2 style="padding-top: 3%;">
+      It's time to cook! What ingredients do you have in your fridge? <br>
+      <small class="text-muted"> Before we start cooking, let's warm up with a joke: {{ joke }} </small>
+  </h2>
+  <br><br>
+  <form action="/recipes">
+      <div class="input-group mb-3" style="max-width: 50%;">
+          <input type="text" class="form-control" placeholder="Apple, flour, sugar" aria-label="Ingredients" aria-describedby="button-addon2" name="ingredients">
+          <div class="input-group-append">
+              <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Search</button>
+          </div>          
+      </div>
+  </form>
+</center>
+{% endblock %}
